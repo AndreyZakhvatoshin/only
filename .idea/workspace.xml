@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d41bd0-ebf7-4c21-8919-c123790f0b4d" name="Changes" comment="feat: автомобили" />
+    <list default="true" id="54d41bd0-ebf7-4c21-8919-c123790f0b4d" name="Changes" comment="feat: ide">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +183,7 @@
       <updated>1758633886938</updated>
       <workItem from="1758633887993" duration="5336000" />
       <workItem from="1758698280943" duration="16002000" />
-      <workItem from="1758783010888" duration="21924000" />
+      <workItem from="1758783010888" duration="22618000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <option name="closed" value="true" />
@@ -255,7 +257,71 @@
       <option name="project" value="LOCAL" />
       <updated>1758812541314</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: забронированные автомобили">
+      <option name="closed" value="true" />
+      <created>1758812701599</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1758812701599</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: фильтры автомобилей">
+      <option name="closed" value="true" />
+      <created>1758812724457</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1758812724457</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: правила валидации списка для бронирования">
+      <option name="closed" value="true" />
+      <created>1758812756619</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758812756619</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: ресурс списка автомобилей">
+      <option name="closed" value="true" />
+      <created>1758812773460</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1758812773460</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: сервис бронирования">
+      <option name="closed" value="true" />
+      <created>1758812793079</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1758812793079</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: контроллер списка">
+      <option name="closed" value="true" />
+      <created>1758812805450</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1758812805450</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test: тест списка автомобилей">
+      <option name="closed" value="true" />
+      <created>1758812850611</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1758812850611</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: ide">
+      <option name="closed" value="true" />
+      <created>1758812885921</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1758812885921</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +337,14 @@
     <MESSAGE value="feat: добавлена должность" />
     <MESSAGE value="feat: сервис контейнер" />
     <MESSAGE value="feat: автомобили" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: автомобили" />
+    <MESSAGE value="feat: забронированные автомобили" />
+    <MESSAGE value="feat: фильтры автомобилей" />
+    <MESSAGE value="feat: правила валидации списка для бронирования" />
+    <MESSAGE value="feat: ресурс списка автомобилей" />
+    <MESSAGE value="feat: сервис бронирования" />
+    <MESSAGE value="feat: контроллер списка" />
+    <MESSAGE value="test: тест списка автомобилей" />
+    <MESSAGE value="feat: ide" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: ide" />
   </component>
 </project>
